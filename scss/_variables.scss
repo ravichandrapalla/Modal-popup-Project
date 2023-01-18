@@ -1,0 +1,22 @@
+// these variables can be user defined and imported into our main scss file where we can reuse then as needed
+
+//global styles
+$primary-background: #fff;
+$primary-font-color: #666666;
+$primary-font-size: 0.75rem;
+
+//modal header
+
+$modal-header-title-color: #00252f;
+$modal-header-light-shade: rgba(0, 37, 47, 0.56);
+
+//patient details
+$patient-details-header-color: #aaaaaa;
+$icon-color: #ed8383;
+$patient-card-bg: #fff6ef;
+
+//admission journey
+$admission-bg: #e4e1e1;
+$admission-btn-color: #ff0042;
+$admission-bold-font: #555555;
+$tick-background: #3ab748;
